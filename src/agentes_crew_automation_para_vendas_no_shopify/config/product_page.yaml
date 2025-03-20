@@ -1,0 +1,93 @@
+product:
+  title: "Gravador de Voz OpenAI Premium™ - Gravação Inteligente com IA"
+  description: |
+    <h1 style="text-align: center; margin-bottom: 2em;">Gravador de Voz OpenAI Premium™ - Gravação Inteligente com IA</h1>
+
+    <div style="margin: 2em 0; line-height: 1.6; text-align: left;">
+    Revolucione sua experiência de gravação com o Gravador de Voz OpenAI Premium™! <strong>Tecnologia de ponta com integração de IA</strong> para gravações cristalinas e transcrições automáticas. Perfeito para profissionais, estudantes e entusiastas da tecnologia que buscam eficiência e qualidade.
+    </div>
+
+    <div style="margin: 2em 0; line-height: 1.6; text-align: left;">
+    <h2 style="text-align: center; margin-bottom: 1.5em;">Por Que Você Precisa Deste Gravador?</h2>
+    <p style="text-align: left;">Perder informações importantes em reuniões ou ter dificuldade para transcrever áudios são problemas comuns. Gravadores tradicionais oferecem qualidade limitada e carecem de recursos inteligentes, resultando em perda de tempo e informações valiosas. A falta de integração com IA torna o processo de documentação ainda mais trabalhoso.</p>
+    </div>
+
+    <div style="margin: 2em 0; line-height: 1.6; text-align: left;">
+    <h2 style="text-align: center; margin-bottom: 1.5em;">A Solução OpenAI Premium™</h2>
+    <p style="text-align: left;">Nosso gravador integra tecnologia de ponta com IA para oferecer gravações perfeitas e transcrições automáticas. Com microfones de alta sensibilidade e processamento inteligente de áudio, cada palavra é capturada com clareza cristalina. A integração com IA permite transcrição instantânea e organização inteligente do conteúdo.</p>
+    </div>
+
+    <div style="margin: 2em 0; line-height: 1.6; text-align: left;">
+    <h2 style="text-align: center; margin-bottom: 1.5em;">Tecnologia Comprovada</h2>
+    <p style="text-align: left;">Desenvolvido com os mais altos padrões de qualidade, nosso gravador passou por rigorosos testes de qualidade de áudio e precisão de transcrição. A tecnologia de redução de ruído e o processamento de IA garantem resultados superiores em qualquer ambiente.</p>
+    </div>
+
+    <div style="margin: 2em 0; line-height: 1.6; text-align: left;">
+    <h2 style="text-align: center; margin-bottom: 1.5em;">Recursos Avançados</h2>
+    <ul style="list-style-type: none; padding-left: 0; text-align: left;">
+      <li style="margin: 1em 0;"><strong>Gravação em HD</strong> - Qualidade de áudio cristalina com 1536Kbps</li>
+      <li style="margin: 1em 0;"><strong>Integração com IA</strong> - Transcrição automática e organização inteligente</li>
+      <li style="margin: 1em 0;"><strong>Bateria de Longa Duração</strong> - Até 70 horas de gravação contínua</li>
+      <li style="margin: 1em 0;"><strong>Armazenamento Expansível</strong> - Suporte para cartão SD de até 512GB</li>
+      <li style="margin: 1em 0;"><strong>Conectividade Versátil</strong> - Bluetooth 5.0 e USB-C</li>
+    </ul>
+    </div>
+
+    <div style="margin: 2em 0; text-align: left;">
+    <h2 style="text-align: center; margin-bottom: 1.5em;">Especificações Técnicas:</h2>
+    <table style="width: 100%; border-collapse: collapse; background-color: #fff;">
+      <tr>
+        <th style="padding: 1em; text-align: left; border-bottom: 2px solid #ddd; background-color: #f8f9fa;">Característica</th>
+        <th style="padding: 1em; text-align: left; border-bottom: 2px solid #ddd; background-color: #f8f9fa;">Descrição</th>
+      </tr>
+      <tr>
+        <td style="padding: 1em; border-bottom: 1px solid #ddd;">Qualidade de Gravação</td>
+        <td style="padding: 1em; border-bottom: 1px solid #ddd;">1536Kbps HD, Formato PCM/MP3</td>
+      </tr>
+      <tr>
+        <td style="padding: 1em; border-bottom: 1px solid #ddd;">Capacidade da Bateria</td>
+        <td style="padding: 1em; border-bottom: 1px solid #ddd;">3000mAh, até 70 horas de uso contínuo</td>
+      </tr>
+      <tr>
+        <td style="padding: 1em; border-bottom: 1px solid #ddd;">Armazenamento</td>
+        <td style="padding: 1em; border-bottom: 1px solid #ddd;">32GB interno + Suporte para cartão SD até 512GB</td>
+      </tr>
+      <tr>
+        <td style="padding: 1em; border-bottom: 1px solid #ddd;">Conectividade</td>
+        <td style="padding: 1em; border-bottom: 1px solid #ddd;">Bluetooth 5.0, USB-C, Wi-Fi</td>
+      </tr>
+    </table>
+    </div>
+
+    <div style="margin: 2em 0; line-height: 1.6; text-align: left;">
+    <p style="text-align: left;">📦 No Pacote Inclui: 1x Gravador OpenAI Premium™, 1x Cabo USB-C, 1x Manual do Usuário, 1x Estojo de Proteção</p>
+    </div>
+
+  price: 399.90
+  compare_at_price: 799.90
+  sku: "OPENAI-RECORDER-PRO"
+  
+  inventory:
+    track_inventory: true
+    quantity: 50
+
+  variants:
+    - color: "Preto"
+      price: 399.90
+      sku: "OPENAI-RECORDER-BLACK"
+    - color: "Prata"
+      price: 399.90
+      sku: "OPENAI-RECORDER-SILVER"
+
+  seo:
+    title: "Gravador de Voz OpenAI com IA | Gravação Inteligente e Transcrição Automática"
+    meta_description: "Gravador de voz premium com tecnologia OpenAI para gravações em HD e transcrição automática. Ideal para profissionais e estudantes. Qualidade superior garantida!"
+    url_handle: "gravador-voz-openai-premium-ia"
+    tags:
+      - "openai"
+      - "openai gravador"
+      - "gravador de voz"
+      - "gravador inteligente"
+      - "gravador com ia"
+      - "gravador profissional"
+      - "transcrição automática"

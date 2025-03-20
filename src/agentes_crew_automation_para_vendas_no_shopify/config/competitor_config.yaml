@@ -1,0 +1,28 @@
+# Competitor URLs for analysis
+competitor_urls:
+  marketplaces:
+    - name: "Supermix Store"
+      url: "https://supermixstore.com/products/capa-de-sofa-premium-em-chenille-com-design-moderno-chumbo?utm_term=mv9h91t3i_1726285525311"
+
+# SEO Configuration
+seo_settings:
+  primary_keywords:
+    - "capa de sofa"
+    - "capa de sofa premium"
+    - "capa de sofa impermeabilizante"
+  secondary_keywords:
+    - "capa sofa chenille"
+    - "capa protetora sofa"
+  target_search_volume: 1000
+  competition_level: "medium"
+
+# Product Analysis Settings
+product_analysis:
+  min_reviews: 50
+  min_rating: 4.0
+  price_range:
+    min: 10
+    max: 100
+  categories_to_analyze:
+    - "category1"
+    - "category2"
